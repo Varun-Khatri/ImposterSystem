@@ -1,0 +1,13 @@
+{
+    "name": "VK.Imposters.Editor",
+    "rootNamespace": "VK.Imposters.Editor",
+    "references": [
+        "VK.Imposters",
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "autoReferenced": true
+}

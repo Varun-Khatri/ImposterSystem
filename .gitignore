@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vs/
+.vscode/
+
+# If you ever commit a dev project alongside the package, ignore its generated
+# folders (NOT the package's own .meta files — those MUST be committed):
+# [Ll]ibrary/
+# [Tt]emp/
+# [Oo]bj/
+# [Bb]uild/
+# [Ll]ogs/
+# UserSettings/

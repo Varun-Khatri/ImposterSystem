@@ -1,0 +1,10 @@
+{
+    "name": "VK.Imposters",
+    "rootNamespace": "VK.Imposters",
+    "references": [
+        "Unity.RenderPipelines.Universal.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "autoReferenced": true
+}

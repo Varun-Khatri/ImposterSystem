@@ -1,0 +1,29 @@
+{
+  "name": "com.vk.imposters",
+  "version": "1.0.0",
+  "displayName": "VK Imposters",
+  "description": "Octahedral imposter baker and runtime for URP, optimized for VR. Replaces expensive meshes with a single billboard quad that samples a baked multi-angle atlas, blending the 3 nearest views with depth parallax so it never pops as the head moves.",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/Varun-Khatri/ImposterSystem#readme",
+  "changelogUrl": "https://github.com/Varun-Khatri/ImposterSystem/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Varun-Khatri/ImposterSystem/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "14.0.11"
+  },
+  "keywords": [
+    "imposter",
+    "impostor",
+    "billboard",
+    "octahedral",
+    "lod",
+    "vr",
+    "xr",
+    "urp",
+    "optimization",
+    "rendering"
+  ],
+  "author": {
+    "name": "Varun Khatri",
+    "url": "https://github.com/Varun-Khatri/ImposterSystem"
+  }
+}
